@@ -14,7 +14,7 @@
 
 ## Результат
 
-[Результат Кода](src/main/java/org.rkov.Main.java)
+[Результат Кода](src/main/java/org/rkov/Main.java)
 
 ```java
 
